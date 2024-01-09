@@ -4,7 +4,6 @@ Ingredients:
 - cilantro
 - salt
 - lime
-- sugar
 
 Instructions:
 - mash avocados
